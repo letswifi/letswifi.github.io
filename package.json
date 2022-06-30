@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.0",
-    "postcss-cli": "^9.0.2"
+    "postcss-cli": "^10.0.0"
   }
 }
